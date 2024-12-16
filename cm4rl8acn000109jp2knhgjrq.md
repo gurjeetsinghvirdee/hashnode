@@ -142,6 +142,11 @@ docker-compose up -d
 ```
 - **Check System Resources: ** Ensure that your system has enough resources *(CPU, RAM)* to run Docker and the Appwrite containers.
 
+### Additional Resources
+- [Appwrite Documentation](https://appwrite.io/docs)
+- [Docker Documentation](https://docs.docker.com/)
+- [Docker Compose Documentation](https://docs.docker.com/compose/)
+
 ### Conclusion
 Congratulations! You have successfully set up Appwrite locally on your machine and learned how to manage it using Docker commands. This setup will serve as the foundation for our upcoming explorations of Appwrite's features and functionalities.
 
