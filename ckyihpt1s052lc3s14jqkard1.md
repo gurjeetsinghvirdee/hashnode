@@ -6,7 +6,6 @@ datePublished: Mon Jan 17 2022 09:31:44 GMT+0000 (Coordinated Universal Time)
 cuid: ckyihpt1s052lc3s14jqkard1
 slug: 10-best-elementor-themes-in-2022
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/-WPrNEM_6dg/upload/v1642411763241/TB4_l8oPf.jpeg
-tags: wordpress-themes, wordpress, frontend-development, 2articles1week, first-post-1
 
 ---
 
