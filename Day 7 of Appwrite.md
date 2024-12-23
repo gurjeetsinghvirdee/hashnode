@@ -22,7 +22,7 @@ To implement attribute-based access control, we’ll store the note ownership as
 
 Here’s an example of how to implement attributes-based access control:
 
-```typescript
+```ts
 // notes.service.ts
 import { Appwrite } from 'appwrite';
 
@@ -47,7 +47,7 @@ const getNote = async (noteId: string, userId: string) => {
 
 Navigate to the **Settings** tab, there you get your API endpoint and your project ID.  
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734810764208/84b718c0-163d-4e26-8fad-fb1a905cf5d5.png align="center")
+![Settings Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1734810764208/84b718c0-163d-4e26-8fad-fb1a905cf5d5.png)
 
 ### Conclusion
 

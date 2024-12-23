@@ -39,7 +39,7 @@ Using the Appring Console
 8. Click the **Update** button.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734727643960/45eabf4d-5c3a-49da-938a-63b95758979c.png align="center")
+![Auth Provider](https://cdn.hashnode.com/res/hashnode/image/upload/v1734727643960/45eabf4d-5c3a-49da-938a-63b95758979c.png)
 
 ### Implementing Google Auth in Your App
 
@@ -63,7 +63,7 @@ appwrite
 
 Endpoint and Project ID can be found on your project **settings** page.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734727623575/ee4b4a62-d966-41cb-9ed6-3428abf39977.png align="center")
+![Settings Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1734727623575/ee4b4a62-d966-41cb-9ed6-3428abf39977.png)
 
 ### Authenticating with Google
 
