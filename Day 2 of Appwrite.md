@@ -34,12 +34,12 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ### Step 2: Install Git
 #### 1. Install Git:
-- For **Windows: ** Download and install Git from the [Git Website](https://git-scm.com/downloads/win).
-- For **Mac: ** You can install Git using Homebrew with the following command: 
+- For Windows:** Download and install Git from the [Git Website](https://git-scm.com/downloads/win).
+- For **Mac:** You can install Git using Homebrew with the following command: 
 ```bash
 brew install git
 ``` 
-- For **Linux: ** You can install Git using your package manager. For example, on Ubuntu:
+- For **Linux:** You can install Git using your package manager. For example, on Ubuntu:
 ```bash
 sudo apt-get update
 sudo apt-get install git
@@ -97,27 +97,27 @@ docker-compose ps
 ```
 #### Manage Individual Containers
 If you prefer to manage individual containers directly, you can use the following Docker commands:
-- **List All Running Containers: **
+- **List All Running Containers:**
 ```bash
 docker ps
 ```
-- **Start a Specific Container: ** First, find the container ID or name using `docker ps -a`, then start it:
+- **Start a Specific Container:** First, find the container ID or name using `docker ps -a`, then start it:
 ```bash
 docker start <container_id_or_name>
 ```
-- **Stop a Specific Container: **
+- **Stop a Specific Container:**
 ```bash
 docker stop <container_id_or_name>
 ```
-- **Restart a Specific Container **
+- **Restart a Specific Container**
 ```bash
 docker restart <container_id_or_name>
 ```
-- **View Logs of a Specific Container: **
+- **View Logs of a Specific Container:**
 ```bash
 docker logs <container_id_or_name>
 ```
-- **Access the Shell of a Running Container: **
+- **Access the Shell of a Running Container:**
 ```bash
 docker exec -t <container_id_or_name> /bin/sh
 ```
@@ -140,7 +140,7 @@ docker-compose logs
 docker-compose down
 docker-compose up -d
 ```
-- **Check System Resources: ** Ensure that your system has enough resources *(CPU, RAM)* to run Docker and the Appwrite containers.
+- **Check System Resources:** Ensure that your system has enough resources *(CPU, RAM)* to run Docker and the Appwrite containers.
 
 ### Additional Resources
 - [Appwrite Documentation](https://appwrite.io/docs)
