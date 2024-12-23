@@ -26,7 +26,7 @@ To create the notes collection, follow these steps:
     
 3. Navigate to the **Databases** section and create a new Database.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734631492443/441faef8-8c4b-447c-a949-b7b2e032d728.png align="center")
+![Database Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1734631492443/441faef8-8c4b-447c-a949-b7b2e032d728.png)
     
 4. Click on the **Create Collection** button.
     
@@ -34,7 +34,7 @@ To create the notes collection, follow these steps:
     
 6. Click **Create** to create the collection.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734631517034/e7be2bd0-2763-44ef-9eff-6fa66928060d.png align="center")
+![Database Created](https://cdn.hashnode.com/res/hashnode/image/upload/v1734631517034/e7be2bd0-2763-44ef-9eff-6fa66928060d.png)
     
 
 ### Defining the Notes Collection Structure
@@ -62,9 +62,9 @@ To create a new note, we’ll use the Appwrite CLI. Run the following command:
  appwrite databases create-document --database-id=<DATABASE_ID> --collection-id=<COLLECTION_ID> --document-id="unique()" --data '{"id": "1", "title": "My First Note", "content": "This is my First Note."}'
 ```
 
-![Screenshot showing a terminal command to create a document in an Appwrite database with details like ID, title, and content. The note's title is "My First Note," and the content reads "time to post 5th day of appwrite series." Various permissions and timestamps are shown.](https://cdn.hashnode.com/res/hashnode/image/upload/v1734641909643/23afb3f1-17f8-4522-a166-8683e6ecd35b.png align="center")
+![Screenshot showing a terminal command to create a document in an Appwrite database.](https://cdn.hashnode.com/res/hashnode/image/upload/v1734641909643/23afb3f1-17f8-4522-a166-8683e6ecd35b.png)
 
-Replace `[DATABASE_ID]` and `[COLLECTIOND_ID]` with the actual ID you created.
+Replace `[DATABASE_ID]` and `[COLLECTION_ID]` with the actual ID you created.
 
 ### Retrieving Notes
 
@@ -74,17 +74,17 @@ To retrieve all notes, run the following command:
  appwrite databases list-documents --database-id=<DATABASE_ID> --collection-id=<COLLECTION_ID>
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734642319940/f791c4c6-b13f-417e-8b93-cd72cd0b723b.png align="center")
+![List of databases](https://cdn.hashnode.com/res/hashnode/image/upload/v1734642319940/f791c4c6-b13f-417e-8b93-cd72cd0b723b.png)
 
 ### Updating a Note
 
-To retrieve all notes, run the following command:
+To update all notes, run the following command:
 
 ```bash
 appwrite databases update-document --database-id=<DOCUMENT_ID> --collection-id=<COLLECTION_ID> --document-id=<DOCUMENT_ID> --data '{"id": "1001", "title": "My second note", "content": "This command used to update the document"}'
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734642742287/79a80fc0-0157-4bc3-96c0-508b6f71b125.png align="center")
+![update all notes](https://cdn.hashnode.com/res/hashnode/image/upload/v1734642742287/79a80fc0-0157-4bc3-96c0-508b6f71b125.png)
 
 Replace `[DATABASE_ID]` and `COLLECTION_ID` with the actual ID you created, and `[DOCUMENT_ID]` with the actual ID of the note, you want to update.
 
