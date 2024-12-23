@@ -94,7 +94,7 @@ The Appwrite Console is like a control room for your Appwrite projects. It's a w
     * **Edit Existing Projects:** Click on a project to open it and manage its settings.
         
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734476048212/3bfdb4dd-25b2-4cb9-af48-02e102467187.png align="center")
+![Project](https://cdn.hashnode.com/res/hashnode/image/upload/v1734476048212/3bfdb4dd-25b2-4cb9-af48-02e102467187.png)
 
 **3\. Dashboard**
 
@@ -115,21 +115,21 @@ The Appwrite Console is like a control room for your Appwrite projects. It's a w
     * **Settings:** Configure project settings, including API keys, webhooks, and general settings.
         
     
-    ![appwrite dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1734471581399/19869127-0e68-4924-80e0-f2a7b800d2e7.png align="center")
+![appwrite dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1734471581399/19869127-0e68-4924-80e0-f2a7b800d2e7.png)
     
 
 **4\. Users**
 
 * The `Users` section is where you manage user accounts, roles, and permissions. You can also view user activity and preferences.
     
-    ![The User section allows you to control access to your resources](https://cdn.hashnode.com/res/hashnode/image/upload/v1734472276728/278d64c7-a181-45f2-91c9-e427c069f0aa.png align="center")
+![The User section allows you to control access to your resources](https://cdn.hashnode.com/res/hashnode/image/upload/v1734472276728/278d64c7-a181-45f2-91c9-e427c069f0aa.png)
     
 
 **5\. Settings**
 
 * The `Settings` section includes options for managing API keys, webhooks, and other project-specific configurations.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734472645678/3b3de2f8-e16d-462b-ba9c-1eec253237e3.png align="center")
+![Settings](https://cdn.hashnode.com/res/hashnode/image/upload/v1734472645678/3b3de2f8-e16d-462b-ba9c-1eec253237e3.png)
     
 
 **6\. Documentation and Support**

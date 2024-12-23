@@ -52,7 +52,7 @@ After installing the Appwrite CLI, you’ll need to login to your Appwrite accou
     
 2. Follow the prompts to authenticate with your Appwrite account.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734531412575/639cecef-e721-4c54-b5ac-ed645476d2a0.png align="center")
+![Appwrite CLI](https://cdn.hashnode.com/res/hashnode/image/upload/v1734531412575/639cecef-e721-4c54-b5ac-ed645476d2a0.png)
     
 
 ### Step 3: Create a new Appwrite Project
@@ -71,10 +71,10 @@ To create a new Appwrite project, follow these simple steps:
     
 4. Follow the prompts to set up your project.
     
-    ![Screenshot of a command line interface showing the initialization of an Appwrite project. It includes prompts for creating a new project, choosing an organization, naming the project as "notes-app," and setting a unique project ID. Success message indicates the project is successfully created and details are stored in an appwrite.json file.](https://cdn.hashnode.com/res/hashnode/image/upload/v1734531264923/3eab8c37-777e-471d-9e43-ed789b5be163.png align="center")
+![Screenshot of a command line interface showing the initialization of an Appwrite project.](https://cdn.hashnode.com/res/hashnode/image/upload/v1734531264923/3eab8c37-777e-471d-9e43-ed789b5be163.png)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734531332209/dfe38fd2-e056-4eec-b88e-8ccd57d24237.png align="center")
+![Project Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1734531332209/dfe38fd2-e056-4eec-b88e-8ccd57d24237.png)
 
 ### Conclusion
 
